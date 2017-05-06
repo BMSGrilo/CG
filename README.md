@@ -2,17 +2,17 @@
 
 Comandos de jogo:
 -------------------------------------------
-:arrow_left:    mover para a esquerda   
+    :arrow_left:    mover para a esquerda   
 -------------------------------------------
-:arrow_right:   mover para a diretita   
+    :arrow_right:   mover para a diretita   
 -------------------------------------------
-:arrow_down:           parar            
+    :arrow_down:           parar            
 -------------------------------------------
     :one:         Camara ortogonal      
 -------------------------------------------    
     :two:        Camara Perspetiva 1    
 -------------------------------------------
-   :three:       Camara Perspetiva 2    
+    :three:       Camara Perspetiva 2    
 -------------------------------------------
       A            Modo Wireframe       
 -------------------------------------------

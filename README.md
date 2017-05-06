@@ -14,21 +14,21 @@ Comandos de jogo:
 -------------------------------------------
    :three:       Camara Perspetiva 2    
 -------------------------------------------
-   :A:            Modo Wireframe       
+   A -            Modo Wireframe       
 -------------------------------------------
-   :B:                Disparar         
+   B -                Disparar         
 -------------------------------------------
-   :C:         Ligar/Desligar estrelas 
+   C -         Ligar/Desligar estrelas 
 -------------------------------------------
-   :G:             Lambert/Phong       
+   G -             Lambert/Phong       
 -------------------------------------------
-   :H:               Holofote          
+   H -               Holofote          
 -------------------------------------------
-   :L:           Material básico       
+   L -           Material básico       
 -------------------------------------------
-   :N:       Ligar/Desigar luz ambiente
+   N -       Ligar/Desigar luz ambiente
 -------------------------------------------
-   :R:              Recomeçar          
+   R -              Recomeçar          
 -------------------------------------------
-   :S:                Pausa            
+   S -                Pausa            
 -------------------------------------------

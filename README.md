@@ -1,7 +1,7 @@
 # CG
 
 Comandos de jogo:
-
+  -------------------------------------------
   |:arrow_left:  |  mover para a esquerda   |
   |:arrow_right: |  mover para a diretita   |
   |:arrow_down:  |         parar            |
@@ -17,3 +17,4 @@ Comandos de jogo:
   |      N       |Ligar/Desigar luz ambiente|
   |      R       |       Recomeçar          |
   |      S       |         Pausa            |
+  -------------------------------------------

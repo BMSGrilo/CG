@@ -2,33 +2,33 @@
 
 Comandos de jogo:
 -------------------------------------------
-    :arrow_left:    mover para a esquerda   
+   :arrow_left:    mover para a esquerda   
 -------------------------------------------
-    :arrow_right:   mover para a diretita   
+   :arrow_right:   mover para a diretita   
 -------------------------------------------
-    :arrow_down:           parar            
+   :arrow_down:           parar            
 -------------------------------------------
-    :one:         Camara ortogonal      
+   :one:         Camara ortogonal      
 -------------------------------------------    
-    :two:        Camara Perspetiva 1    
+   :two:        Camara Perspetiva 1    
 -------------------------------------------
-    :three:       Camara Perspetiva 2    
+   :three:       Camara Perspetiva 2    
 -------------------------------------------
-      A            Modo Wireframe       
+   A            Modo Wireframe       
 -------------------------------------------
-      B                Disparar         
+   B                Disparar         
 -------------------------------------------
-      C         Ligar/Desligar estrelas 
+   C         Ligar/Desligar estrelas 
 -------------------------------------------
-      G             Lambert/Phong       
+   G             Lambert/Phong       
 -------------------------------------------
-      H               Holofote          
+   H               Holofote          
 -------------------------------------------
-      L           Material básico       
+   L           Material básico       
 -------------------------------------------
-      N       Ligar/Desigar luz ambiente
+   N       Ligar/Desigar luz ambiente
 -------------------------------------------
-      R              Recomeçar          
+   R              Recomeçar          
 -------------------------------------------
-      S                Pausa            
+   S                Pausa            
 -------------------------------------------
